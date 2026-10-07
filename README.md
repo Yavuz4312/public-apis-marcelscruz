@@ -662,6 +662,7 @@
 | [JSONbin.io](https://jsonbin.io) | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | `apiKey` | Yes |
 | [JSONsilo.com](https://jsonsilo.com) | Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost. | `apiKey` | Yes |
 | [Kroki](https://kroki.io) | Creates diagrams from textual descriptions | No | Yes |
+| [LiveOrDown](https://liveordown.com) | Live up/down status of 240+ online services, checked every minute from 3 regions | No | Yes |
 | [MAC address vendor lookup](https://macaddress.io/api) | Retrieve vendor details and other information regarding a given MAC address or an OUI | `apiKey` | Yes |
 | [Magento Watch](https://magento.watch) | Release dates, end-of-life dates and system requirements for Magento Open Source, Adobe Commerce and Mage-OS versions | No | Yes |
 | [Markdown to HTML API](https://apyhub.com/utility/converter-md-html) | This API lets you upload and transform a Markdown file to HTML | `apiKey` | Yes |
